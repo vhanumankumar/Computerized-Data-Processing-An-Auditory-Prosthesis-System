@@ -1,4 +1,5 @@
-![image](https://user-images.githubusercontent.com/50360331/114029778-7f68f280-9897-11eb-9966-983da6437fce.png)
+![image](https://user-images.githubusercontent.com/50360331/114030176-e4244d00-9897-11eb-8430-3b1fc257c6a0.png)
+
 The book focus on the design and development of Embedded Computing Bionic
 Prosthesis using an FPGA based computerized Speech Processor for the patients
 suffering from severe to profound hearing loss. It is one of the available bionic Implants
