@@ -12,3 +12,5 @@ send the processed speech data to the electrode array inserted in the damaged in
 (cochlea) for providing the speech recognition to the deafened person via inductive
 transcutaneous RF-link. This process should run continuously without loss of
 speech/sound information.
+
+Available@ https://cutt.ly/hxpbEMf
